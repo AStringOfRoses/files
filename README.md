@@ -1,2 +1,2 @@
-# Filehost
-Contains files for https://github.com/AStringOfRoses/Site
+# Files
+Contains files for the [site](https://github.com/AStringOfRoses/Site)
